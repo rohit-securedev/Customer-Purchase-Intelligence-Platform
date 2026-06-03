@@ -35,10 +35,12 @@ This project analyzes retail customer purchase behavior and generates business i
 
 ## Key Insights
 
-* Clothing generated the highest revenue.
-* Credit Card was the most preferred payment method.
-* Fall season produced the highest sales.
-* Platinum customers showed the highest average CLV.
+- Clothing generated the highest revenue ($104,264).
+- Credit Card was the most preferred payment method.
+- Fall season generated the highest sales.
+- Platinum customers achieved the highest average CLV.
+- Loyal Customers showed the strongest long-term value.
+
 
 ## Project Structure
 
