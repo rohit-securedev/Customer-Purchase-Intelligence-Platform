@@ -1,4 +1,4 @@
-# Customer Purchase Intelligence & Loyalty Analytics Platform
+# Customer Intelligence & Shopping Behavior Analytics  
 
 ## Overview
 
