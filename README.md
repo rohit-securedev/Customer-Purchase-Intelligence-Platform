@@ -41,6 +41,7 @@ This project analyzes retail customer purchase behavior and generates business i
 - Platinum customers achieved the highest average CLV.
 - Loyal Customers showed the strongest long-term value.
 
+## Dashboard
 The project includes a 4-page interactive Power BI dashboard:
 1. Executive Overview
 2. Customer Intelligence
